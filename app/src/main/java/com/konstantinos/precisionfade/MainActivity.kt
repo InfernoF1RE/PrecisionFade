@@ -17,7 +17,7 @@ import androidx.exifinterface.media.ExifInterface
 import java.io.File
 import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors
-gi
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var previewView: PreviewView
