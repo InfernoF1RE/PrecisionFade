@@ -1,0 +1,8 @@
+<!-- res/values/themes.xml -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.PrecisionFade" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#000000</item> <!-- Black status bar -->
+        <item name="android:navigationBarColor">#000000</item> <!-- Optional: black nav bar -->
+        <item name="android:windowLightStatusBar">false</item> <!-- Icons white -->
+    </style>
+</resources>
